@@ -1,0 +1,3 @@
+Credenziali admin:
+m.rossi@mail.com
+password123
